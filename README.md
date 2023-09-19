@@ -1,7 +1,7 @@
 ### <div align="center">👨‍💻 Fulstack programlama üzerine çalışmalar yapan bir mühendisim.🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/vahdetaltundas/MicroservicesApp)  
+- 🔭 I’m currently working on [Microservices](https://github.com/vahdetaltundas/MicroservicesApp)/[E-TradeApp](https://github.com/vahdetaltundas/MiniETradeApp)
   
 
 - 🌱 I’m currently learning AngularJs , TypeScript and Spring  
