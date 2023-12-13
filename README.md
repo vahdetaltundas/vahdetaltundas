@@ -4,10 +4,10 @@
 - 🔭 I’m currently working on [Microservices](https://github.com/vahdetaltundas/MicroservicesApp)/[E-TradeApp(BackEnd)](https://github.com/vahdetaltundas/MiniETradeApp) /[MiniETradeAppClient(FrontEnd)](https://github.com/vahdetaltundas/MiniETradeAppClient)
   
 
-- 🌱 I’m currently learning AngularJs , TypeScript and Spring  
+- 🌱 I’m currently learning AngularJs , TypeScript and NodeJs  
   
 
-- ❓ Ask me anything about .Net and Layered Architecture  
+- ❓ Ask me anything about .Net , ReactJs , NextJs  
   
 
 <br/>  
