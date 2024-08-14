@@ -89,8 +89,7 @@
 <br/>  
 
   
-Merhaba ben Vahdet. Malataya Turgut Özal Üniversitesi Bilgisayar Mühendisliği 4.sınıf
-öğrencisiyim. Fulstack programlama üzerine çalışmalar yapan ve kendini bu alanda geliştirmek
+Merhaba ben Vahdet.Bilgisayar Mühendisiyim . Fulstack programlama üzerine çalışmalar yapan ve kendini bu alanda geliştirmek
 isteyen yeniliklere açık, bilimi takip eden ve insanlık adına önemli projelerde rol onamak
 isteyen bir mühendis adayıyım.  
   
