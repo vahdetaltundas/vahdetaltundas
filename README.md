@@ -85,10 +85,15 @@
 <br/>  
 
   
-Merhaba ben Vahdet.Bilgisayar Mühendisiyim . Fulstack programlama üzerine çalışmalar yapan ve kendini bu alanda geliştirmek
-isteyen yeniliklere açık, bilimi takip eden ve insanlık adına önemli projelerde rol onamak
-isteyen bir mühendis adayıyım.  
-  
+Merhaba, ben Vahdet. Bilgisayar mühendisiyim ve şu anda Eskişehir Osmangazi Üniversitesi'nde Yapay Zeka alanında yüksek lisans yapıyorum.
+Profesyonel olarak fullstack web uygulamaları geliştiriyorum.
+
+Backend tarafında genellikle JavaScript/NestJS/Node.js,
+Frontend tarafında ise React, Next.js, TailwindCSS, Bootstrap gibi modern kütüphaneleri kullanıyorum.
+
+Veri tabanı teknolojilerinde MongoDB (NoSQL) ve PostgreSQL (SQL) gibi hem ilişkisel hem de ilişkisel olmayan sistemlerle çalıştım.
+
+Ayrıca yapay zeka alanında kendimi geliştiriyor, bu alanda akademik ve uygulamalı projelerde yer alıyorum.
 
 <br/>  
 
