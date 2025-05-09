@@ -49,7 +49,7 @@
 
 ```javascript
 const developer = {
-  name: "Adınız Soyadınız",
+  fullName: "Vahdet Altundaş",
   title: "Full-Stack Developer & AI Researcher",
   education: {
     degree: "Bilgisayar Mühendisliği",
