@@ -82,15 +82,6 @@ const developer = {
 
 ---
 
-## 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vahdetaltundas&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahdetaltundas&layout=compact&theme=radical" alt="Top Languages" height="170" />
-</div>
-
----
-
 ## 📫 Benimle İletişime Geç
 
 <div align="center">
@@ -104,7 +95,7 @@ const developer = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KULLANICI_ADINIZ&color=blueviolet&style=flat-square&label=Profil+Görüntülenme" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vahdetaltunda&color=blueviolet&style=flat-square&label=Profil+Görüntülenme" alt="Profile views" />
 </div>
 
 <div align="center">
